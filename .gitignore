@@ -11,8 +11,10 @@ Thumbs.db
 
 # Caches and local state
 .cache/
+.config/
 .local/
 .tmp/
+.copilot/
 
 # Python
 __pycache__/
@@ -28,9 +30,22 @@ node_modules/
 # Browser and app profiles
 .mozilla/
 .pki/
+.vscode-insiders-shared/
 
 # Shell history
 .bash_history
+.bashrc
+.bash_profile
+.bash_logout
+.lesshst
+
+# Editor state
+.vim/
+.viminfo
+
+# User folders
+Documentos/
+Downloads/
 
 # Logs
 *.log
