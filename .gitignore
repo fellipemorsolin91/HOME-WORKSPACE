@@ -30,6 +30,7 @@ node_modules/
 # Browser and app profiles
 .mozilla/
 .pki/
+.wine/
 .vscode-insiders-shared/
 
 # Shell history
